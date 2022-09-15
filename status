@@ -8,6 +8,8 @@
       "am_vi": "Z6fCdDK4eFPHX49PSVxDFPOm2mhErOv9V3inBAB/2fHWTpIKPNxXotC3WWXfKBUX",
       "am_na": "",
 
+	"is_redirect":false,
+
       "ads_list": ["am", "is", "sa"],
       "hide_my_ad":false,
       "interval":15000,
