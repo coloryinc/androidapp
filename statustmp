@@ -1,6 +1,26 @@
 [{
-    "com.among.us.lock.screen": {
-    "theme": [
+	"com.among.us.lock.screen": {
+      "sa_id": "l9wfrVJluEWAR96UrgNCGg==",
+      "is_id": "RzJCzURwgArCJSnWWntD9A==",
+
+      "am_ba": "",
+      "am_in": "Z6fCdDK4eFPHX49PSVxDFC9vYae3VZF2yg1R1rsMPU5TdJyOwG9OH1NHax5SvxXT",
+      "am_vi": "Z6fCdDK4eFPHX49PSVxDFPOm2mhErOv9V3inBAB/2fHWTpIKPNxXotC3WWXfKBUX",
+      "am_na": "",
+
+	"is_redirect":true,
+	"redirect":{
+		"des":"AmongLock is the new lock screen app for those who play and love Among Us. With this application, protect your phone from strangers and have quality Among Us wallpapers.",
+		"package":"amonguslock.amonguslockscreen.amonglock",
+		"icon":"https://play-lh.googleusercontent.com/53ssvLoXMi5fI5ZW19uMNxzPguYLA_s7AgreGktzD_9bAIOYd6GtkpvyVg5dqgA8OQ=s96-rw",
+		"appName":"AmongUs Lock Screen"},
+      
+      "ads_list": ["am", "is", "sa"],
+      "hide_my_ad":false,
+      "interval":15000,
+      "disable_sa": false,
+
+        "theme": [
         {
           "f": "",
           "ver": 0,
@@ -13,12 +33,12 @@
         },
         {
           "f": "theme/V9JSxU.dat",
-          "ver": 5,
+          "ver": 1,
           "length": 1
         },
         {
           "f": "theme/V9JSxv.dat",
-          "ver": 2,
+          "ver": 1,
           "length": 1,
           "thumb": "thumb/theme4.jpg"
         }
@@ -33,4 +53,5 @@
 	"ads_list": ["is", "sa"]
 
 }
+
 }]
