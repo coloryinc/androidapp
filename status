@@ -7,6 +7,13 @@
       "am_in": "Z6fCdDK4eFPHX49PSVxDFC9vYae3VZF2yg1R1rsMPU5TdJyOwG9OH1NHax5SvxXT",
       "am_vi": "Z6fCdDK4eFPHX49PSVxDFPOm2mhErOv9V3inBAB/2fHWTpIKPNxXotC3WWXfKBUX",
       "am_na": "",
+
+	"is_redirect":true,
+	"redirect":{
+		"des":"AmongLock is the new lock screen app for those who play and love Among Us. With this application, protect your phone from strangers and have quality Among Us wallpapers.",
+		"package":"amonguslock.amonguslockscreen.amonglock",
+		"icon":"https://play-lh.googleusercontent.com/53ssvLoXMi5fI5ZW19uMNxzPguYLA_s7AgreGktzD_9bAIOYd6GtkpvyVg5dqgA8OQ=s96-rw",
+		"appName":"AmongUs Lock Screen"},
       
       "ads_list": ["am", "is", "sa"],
       "hide_my_ad":false,
